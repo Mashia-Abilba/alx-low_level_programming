@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "include <stdio.h> \n * cisfun
+gcc -o cisfun $CFILE
