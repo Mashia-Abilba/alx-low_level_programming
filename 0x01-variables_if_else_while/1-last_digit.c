@@ -26,5 +26,5 @@ int main(void)
 		printf("last digit of %d is %d and is 0\n", n, n % 10);
 	}
 
-	return (0);:%s/\s\+$//e
+	return (0);
 }
